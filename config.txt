@@ -1,0 +1,8 @@
+?token=NDU4OTgyOTU3OTQ5MTI0NjM0.DthwmA.E2QgYDJ0g35Um3FNxE0fMAwmSf8 
+owner=419550777468780546 
+prefix= +
+game= Server 4U Soon 100
+stayinchannel=false
+songinstatus=true 
+
+token=NDU4OTgyOTU3OTQ5MTI0NjM0.DthwmA.E2QgYDJ0g35Um3FNxE0fMAwmSf8
